@@ -38,3 +38,6 @@
 ### License
 
 * This project is licensed under the MIT License.
+
+  ###Deployment [link](https://pocket-notes-maw28v8lq-prajjwal-shuklas-projects.vercel.app
+)
