@@ -2,6 +2,9 @@
 
 **A React-based note-taking application utilizing Vite's fast build times and Redux for robust state management to provide a seamless user experience.**
 
+  ### Deployment [link](https://pocket-notes-maw28v8lq-prajjwal-shuklas-projects.vercel.app)
+
+
 ### Features
 
 * Create and manage groups for organizing notes
@@ -39,5 +42,3 @@
 
 * This project is licensed under the MIT License.
 
-  ###Deployment [link](https://pocket-notes-maw28v8lq-prajjwal-shuklas-projects.vercel.app
-)
